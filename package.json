@@ -1,0 +1,16 @@
+{
+  "name": "express-ej3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ej3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node ej3.js",
+    "dev": "nodemon ej3.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
